@@ -341,5 +341,4 @@ The **testbench file** (`tb_traffic_light_controller.v`) is a simulation environ
 
 ---
 
-Let me know if you want this merged with the Python prototype Markdown or styled for a `README.md`!
 
