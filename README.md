@@ -337,8 +337,5 @@ The **testbench file** (`tb_traffic_light_controller.v`) is a simulation environ
 4. Waits appropriate time before sending the next instruction
 5. Monitors and displays changes in light signals
 
-> Think of it as a **virtual driver** that tests how the controller handles both normal and emergency traffic scenarios.
-
----
 
 
