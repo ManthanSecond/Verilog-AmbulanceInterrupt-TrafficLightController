@@ -2,6 +2,8 @@
 
 # Traffic Light Controller with Ambulance Interrupt
 
+This project was developed in collaboration with my colleague [Manav Bhavsar](https://mechahuman.github.io/). It incorporates principles from Computer Architecture and Digital Electronics and employs Verilog to design a traffic light controller for a four-way intersection, featuring intelligent emergency vehicle handling. 
+
 ## Introduction
 
 This project is about a 4-way crossroad traffic light controller with an ambulance interrupt and a basic computer implementation. It uses Verilog to design a traffic light controller that manages a four-way intersection with intelligent emergency handling.
